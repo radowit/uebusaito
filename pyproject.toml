@@ -39,7 +39,7 @@ pytest-django = "^4.7.0"
 pytest-sugar = "^0.9.7"
 pytest = "^7.4.3"
 werkzeug = { version = "^3.0.1", extras = ["watchdog"] }
-ruff = "^0.1.7"
+ruff = "^0.3.0"
 pytest-cov = "^4.1.0"
 
 
